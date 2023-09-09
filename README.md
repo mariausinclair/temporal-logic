@@ -41,4 +41,4 @@ Enter a temporal formula:
 ```
 
 ### Note
-The algorithm in `minkowski-spacetime.py` is sound but not complete. It will always confirm with certainty when a formula is not satisfiable. To guarantee satisfiability, additional checks must be carried out. 
+The algorithm in `minkowski-spacetime.py` is sound but not complete. It will always correctly determine when a formula is not satisfiable. To guarantee satisfiability, additional checks must be carried out. 
